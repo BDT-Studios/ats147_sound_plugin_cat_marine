@@ -1,5 +1,7 @@
 # American Truck Simulator Sound Plugin 1.47 - CATAPILLAR MARINE
 
+- 4/24/23 - Volume fix
+
 - CATAPILLAR MARINE Engine Sound Plugin /w Brake and Retarder now!
 
 1. Install in your steam folder Drive:\steam\steamapps\common\American Truck Simulator\bin\win_x64\plugins
